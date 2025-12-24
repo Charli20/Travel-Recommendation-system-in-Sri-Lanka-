@@ -1,4 +1,4 @@
-4. Pushing scraped files to GitHub
+Pushing scraped files to GitHub
 
 After generating the CSV files, follow these steps:
 
